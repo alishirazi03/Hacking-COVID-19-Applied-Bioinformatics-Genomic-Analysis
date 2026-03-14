@@ -24,7 +24,7 @@ As a recent graduate with a Bachelor's in Biosciences from COMSATS University Is
 
 ## Table of Contents
 - [Background](#background)
-- [Workflow Overview](#workflow)
+- [Workflow Overview](#workflow-overview)
 - [01: Genome Assembly](#01-genome-assembly)
 - [02: Genome Annotation & Diagnostic Design](#02-genome-annotation--diagnostic-design)
 - [03: Multiple Sequence Alignment & Viral Origins](#03-multiple-sequence-alignment--viral-origins)
